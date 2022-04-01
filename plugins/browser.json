@@ -1,0 +1,41 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "true",
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-googleplus": {
+      "WEB_APPLICATION_CLIENT_ID": "991305834542-9jdd87auh6dofhdskdr4gbml739v7aqb.apps.googleusercontent.com",
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-sign-in-with-apple": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    },
+    "cordova-plugin-applepay": {
+      "PACKAGE_NAME": "com.hairdayinc.hairday"
+    }
+  },
+  "dependent_plugins": {}
+}
